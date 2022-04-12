@@ -1,0 +1,16 @@
+    <Placemark>
+      <name>Circle</name>
+      <Style>
+        <LineStyle>
+          <color>A6000000</color>
+          <width>3</width>
+        </LineStyle>
+        <PolyStyle>
+          <color>33FFFFFF</color>
+          <fill>1</fill>
+        </PolyStyle>
+      </Style>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
